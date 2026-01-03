@@ -1,2 +1,0 @@
-# Ezhome
-Ezhome — initial commit
